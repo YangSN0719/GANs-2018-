@@ -1,5 +1,5 @@
 # GANs-2018
-Generative Adversarial Networks Papers published in Computer Vision Pattern Recognition [CVPR 2018](http://openaccess.thecvf.com/CVPR2018.py)
+Generative Adversarial Networks Published Papers List for [CVPR 2018](http://openaccess.thecvf.com/CVPR2018.py)
 1. [Stacked Conditional Generative Adversarial Networks for Jointly Learning
 Shadow Detection and Shadow Removal](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Stacked_Conditional_Generative_CVPR_2018_paper.pdf)
 2. [Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated
